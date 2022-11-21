@@ -1,1 +1,2 @@
-# Hello, world!
+# Hello, worlId!
+I study in Netology
